@@ -1,0 +1,61 @@
+image_name,caption,chatgpt_classification,grok_classification,deepseek_classification
+1.jpg,Check out with me this new playground in new york city,Happy,happy,happy
+2.jpg,As you enter the playground which is the name of the exhibit,Neutral,neutral,happy
+3.jpg,But you can dry out your tears in the trampoline,Happy,happy,sad
+4.jpg,"Hey guys, today we gonna try the adult's kid meal",Happy,neutral,neutral
+5.jpg,there is a toy,Happy,neutral,neutral
+6.jpg,10 out of 10,Happy,happy,happy
+7.jpg,eh eh,Disgust,neutral,neutral
+8.jpg,oh oh,Surprise,surprise,fear
+9.jpg,glue glue,"Sorry, I can't help with identifying or analyzing this image.",neutral,neutral
+10.jpg,help help,Fear,fear,fear
+11.jpg,whoever thought of this is a sick sadist,Disgust,anger,disgust
+12.jpg,you guys having been telling me to do the adult happy meal vs the kid happy meal,Happy,neutral,neutral
+13.jpg,chew,Happy,neutral,neutral
+14.jpg,huhu,Surprise,sad,sad
+15.jpg,Yo oh man,Neutral,neutral,happy
+16.jpg,what about your diet,Neutral,neutral,neutral
+17.jpg,fk you,anger,anger,anger
+18.jpg,wow wow wow we are not married,Surprise,surprise,surprise
+19.jpg,what,Surprise,surprise,neutral
+20.jpg,you didn't understand,Neutral,anger,sad
+21.jpg,oh oh,Surprise,surprise,fear
+22.jpg,yes you and you,Surprise,neutral,happy
+23.jpg,now you want me to go there now,Neutral,anger,anger
+24.jpg,ok look he bought you this,Disgust,neutral,neutral
+25.jpg,of course I do,Neutral,neutral,happy
+26.jpg,I am a princess,Happy,happy,happy
+27.jpg,dododo,Neutral,neutral,neutral
+28.jpg,zzz,Sleepy,neutral,neutral
+29.jpg,you have any suits?,Neutral,neutral,neutral
+30.jpg,that's chicken chicken don't fly,Happy,neutral,neutral
+31.jpg,hi ryan,Neutral,neutral,neutral
+32.jpg,that will be 41,Neutral,neutral,neutral
+33.jpg,I want some hamburgers too ryan,Happy,neutral,happy
+34.jpg,ah snake,Fear,fear,fear
+35.jpg,snake says hes in danger,Fear,fear,fear
+36.jpg,I saved you,Happy,happy,happy
+37.jpg,oh no,Fear,sad,sad
+38.jpg,the biggest wave on the way,Surprise,surprise,fear
+39.jpg,run run run,Fear,fear,fear
+40.jpg,I want to go to chik fi la,Sad,neutral,happy
+41.jpg,Are you ok,Sad,neutral,neutral
+42.jpg,I want bacon,Sad,neutral,happy
+43.jpg,pure music,Happy,happy,neutral
+44.jpg,pure music,Happy,happy,neutral
+45.jpg,pure music,Happy,happy,neutral
+46.jpg,pure music,Happy,happy,neutral
+47.jpg,pure music,Happy,happy,neutral
+48.jpg,pure musc,Happy,neutral,neutral
+49.jpg,go look at what baba wearing,Surprise,neutral,neutral
+50.jpg,clapping,Happy,happy,happy
+51.jpg,heyyy,Happy,neutral,neutral
+52.jpg,hahaha,happy,happy,happy
+53.jpg,what a princess,Happy,happy,happy
+54.jpg,can I get your hand,Happy,neutral,neutral
+55.jpg,kiss,Happy,happy,happy
+56.jpg,are you ready to stand up,Neutral,neutral,neutral
+57.jpg,cry,Sad,sad,sad
+58.jpg,you can't eat chips,Sad,sad,neutral
+59.jpg,?,Surprise,neutral,neutral
+60.jpg,cry,Sad,sad,sad
